@@ -1,4 +1,4 @@
-## DS4400: Final Project 
+# DS4400: Final Project 
 *By Srishti Kundu and Caitlin Chao*
 ---
 Topic: Dog Breed Classification System 
@@ -15,7 +15,7 @@ Data: [Stanford Dogs Dataset](https://www.kaggle.com/datasets/jessicali9530/stan
 ---
 ## Requirements 
 '''python 
-$ pip install tensorflow 
+pip install tensorflow 
 $ pip install tensorflow_hub
 $ pip install keras
 $ pip install tqdm
