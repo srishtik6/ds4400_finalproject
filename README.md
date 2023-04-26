@@ -23,5 +23,4 @@ Data: [Stanford Dogs Dataset](https://www.kaggle.com/datasets/jessicali9530/stan
 ## Data Preparation 
 Download the following...
 - Main Dogs Dataset: [Stanford Dogs Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset)
-- REMEMBER TO ADD
-- REMEMBER TO ADD
+- Human Faces Dataset: [Web-scraped Human Faces](https://www.kaggle.com/datasets/ashwingupta3012/human-faces)
