@@ -1,2 +1,2 @@
-# ds4400_finalproject
-Srishti Kundu and Caitlin Chao 
+# DS4400: Final Project 
+## By Srishti Kundu and Caitlin Chao 
