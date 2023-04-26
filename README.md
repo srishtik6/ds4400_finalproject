@@ -18,6 +18,7 @@ Data: [Stanford Dogs Dataset](https://www.kaggle.com/datasets/jessicali9530/stan
 - tensorflow 
 - tensorflow_hub
 - keras
+- keras-applications
 - tqdm
 ---
 ## Data Preparation 
