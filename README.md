@@ -1,5 +1,5 @@
 # DS4400: Final Project 
-*By Srishti Kundu and Caitlin Chao*
+**By Srishti Kundu and Caitlin Chao**
 ---
 Topic: Dog Breed Classification System 
 
