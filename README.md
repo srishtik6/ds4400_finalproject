@@ -14,6 +14,7 @@ Data: [Stanford Dogs Dataset](https://www.kaggle.com/datasets/jessicali9530/stan
 
 ---
 ## Requirements 
+'''python 
 $ pip install tensorflow 
 $ pip install tensorflow_hub
 $ pip install keras
