@@ -14,9 +14,10 @@ Data: [Stanford Dogs Dataset](https://www.kaggle.com/datasets/jessicali9530/stan
 
 ---
 ## Requirements 
-'''python 
-pip install tensorflow 
-$ pip install tensorflow_hub
-$ pip install keras
-$ pip install tqdm
+*Requirements can be downloaded using pip install on terminal*
+- tensorflow 
+- tensorflow_hub
+- keras
+- tqdm
+
 
