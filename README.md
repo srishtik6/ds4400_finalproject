@@ -49,6 +49,14 @@ TRANSFER LEARNING: using pre-trained deep learning model that was trained on a l
 
 4. ResNet50 (deep convolutional neural network architecture)
   -  Dense output layer with 120 neurons and softmax activation function 
+---
+## Accuracy 
+| Model | Test Accuracy | 
+| --- | --- | 
+| 1: Simple CNN | 18.27% | 
+| 2. CNN (more epochs and deeper architecture) | 75.78% | 
+| 3. Xception | 14.16% |
+| 4. ResNet 50 | 90.3% |
 
 ---
 ## Testing! 
