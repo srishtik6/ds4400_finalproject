@@ -29,26 +29,27 @@ Download the following (or use the Data folder)
 ---
 ## Models 
 1. CNN Pt. 1
-- 3 convulational layers
-- max-pooling layer with a pool size of 2x2
-- dropout layer with a dropout rate of 0.25
-- fully connected layer (512 neurons and a ReLU activation function) 
-- 10 epochs
+  - 3 convulational layers
+  - max-pooling layer with a pool size of 2x2
+  - dropout layer with a dropout rate of 0.25
+  - fully connected layer (512 neurons and a ReLU activation function) 
+  - 10 epochs
 
 2. CNN Pt. 2 
-- changes from pt 1 include... 
-  - 4 convulational layers (vs. 3) 
-  - Batch normalization layers to improve performance 
-  - 20 epochs
+  - changes from pt 1 include... 
+    - 4 convulational layers (vs. 3) 
+    - Batch normalization layers to improve performance 
+    - 20 epochs
 
 TRANSFER LEARNING: using pre-trained deep learning model that was trained on a large-scale image classification task
 
 3. XCeption (pre-trained on the ImageNet dataset) 
-- Sequential model 
-- Dense layer with 120 neurons and softmax activation function 
+  - Sequential model 
+  - Dense layer with 120 neurons and softmax activation function 
 
 4. ResNet50 (deep convolutional neural network architecture)
-- Dense output layer with 120 neurons and softmax activation function 
+  -  Dense output layer with 120 neurons and softmax activation function 
 
 ---
 ## Testing! 
+
