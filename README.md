@@ -52,7 +52,7 @@ TRANSFER LEARNING: using pre-trained deep learning model that was trained on a l
 
 ---
 ## Testing! 
-1. Mixed Breed Test 
+### 1. Mixed Breed Test 
 This is Srishti's dog, Puffy, who is a mix of Llasa and Shih Tzu, which look very similar to one another. 
 
 ![Srishti's Dog - Mixed Breed (Llasa and Shih Tzu)](readme_photos/puffy.png)
@@ -60,11 +60,19 @@ This is Srishti's dog, Puffy, who is a mix of Llasa and Shih Tzu, which look ver
 **Result**
 ![Srishti's Dog - Mixed Breed (Llasa and Shih Tzu)](readme_photos/puffy_match.png)
 ---
-2. Fictional Dog 
+### 2. Fictional Dog 
 This is Paws, Northeastern's Mascot which is a fictional husky. Let's see if the breed classification system will classify it as a husky!
 
-![Srishti's Dog - Mixed Breed (Llasa and Shih Tzu)](readme_photos/husky.png)
+![Husky](readme_photos/husky.png)
 
 **Result**
-![Srishti's Dog - Mixed Breed (Llasa and Shih Tzu)](readme_photos/husky_match.png)
+![Husky](readme_photos/husky_match.png)
+---
+### 3. Human
+This is Srishti. Let's find out which dog breed she is most similar too! 
+
+![Srishti](readme_photos/srishti.png)
+
+**Result**
+![Srishti](readme_photos/srishti_match.png)
 
