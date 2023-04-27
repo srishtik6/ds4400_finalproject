@@ -52,5 +52,11 @@ TRANSFER LEARNING: using pre-trained deep learning model that was trained on a l
 
 ---
 ## Testing! 
+1. Mixed Breed Test 
+This is Srishti's dog, Puffy, who is a mix of Llasa and Shih Tzu, which look very similar to one another. 
+
 ![Srishti's Dog - Mixed Breed (Llasa and Shih Tzu)](readme_photos/puffy.png)
+***Result**
+![Srishti's Dog - Mixed Breed (Llasa and Shih Tzu)](readme_photos/puffy_match.png)
+
 
