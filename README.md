@@ -52,4 +52,5 @@ TRANSFER LEARNING: using pre-trained deep learning model that was trained on a l
 
 ---
 ## Testing! 
-![Srishti's Dog - Mixed Breed (Llasa and Shih Tzu)](readme_photos/cat.jpg)
+![Srishti's Dog - Mixed Breed (Llasa and Shih Tzu)](readme_photos/puffy)
+
