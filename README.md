@@ -1,5 +1,7 @@
 # DS4400: Final Project 
 *By Srishti Kundu and Caitlin Chao*
+
+https://www.kaggle.com/code/kuzupeko/ds4400-caitlin-chao-srishti-kundu-final
 ---
 Topic: Dog Breed Classification System 
 
